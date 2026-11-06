@@ -1,0 +1,1 @@
+Add Foundry tests using a mock ERC-20 token. Cover deposit, withdraw, zero amounts, insufficient balance, and tokens returning false.
